@@ -30,14 +30,14 @@ while True:
     msg = input("User: ").strip().lower()
 
     if msg in ["bye", "exit"]:
-        print("AI:", message_bank[msg])
+        print("🤖 ChatBot:", message_bank[msg])
         break
 
     elif msg in message_bank:
-        print("AI:", message_bank[msg])
+        print("🤖 ChatBot:", message_bank[msg])
 
     else:
-        print("AI: Sorry, I don't understand that.")
+        print("🤖 ChatBot: Sorry, I don't understand that.")
 
-print("AI ChatBot Ended..!")
+print("🤖 ChatBot Ended..!")
 
