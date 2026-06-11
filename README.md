@@ -114,8 +114,6 @@ Nishanth Sake
 
 Artificial Intelligence & Machine Learning Student
 
-RGUKT RK Valley
-
 GitHub: https://github.com/sakenishanth7-rgb
 
 ---
